@@ -18,6 +18,7 @@ public class GenericClassTest {
 			System.out.println(element);
 		}
 		Arrays.sort(elements);
+		array .sort(elements);
 		System.out.println("Your Sorted Array : "+Arrays.toString(elements));
 	}
 }
